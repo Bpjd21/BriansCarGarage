@@ -4,23 +4,29 @@ using System.Text;
 
 namespace CarGarage
 {
-    public class Garage
-    {
-        public List<Car> myGarage;
+    public class Car
 
-        public Garage()
+
+    {
+        public string Make { get; private set; }
+        public string Model { get; private set; }
+        public string Year { get; private set; }
+
+        public List<Car> myGarage;
+        
+        public Car()
         {
             myGarage = new List<Car>();
         }
-
+               
         public void AddCar()
         {
-            this.myGarage.Add(new Car());
+            myGarage.Add(new Car());
         }
 
         public void RemoveCar()
         {
-            this.myGarage.Remove(new Car());
+            myGarage.Remove(new Car());
         }
 
         public void FuelAllCars() //allcars

@@ -9,14 +9,14 @@ namespace CarGarage
         public int Speed { get; private set; }
         public int FuelLevel { get; private set; }
         public bool EngineOn { get; set; }
-        
+
         public Car()
         {
             Speed = 0;
             FuelLevel = 100;
             EngineOn = true;
-
         }
+           
 
         public Car(int startingFuelLevel)
         {
