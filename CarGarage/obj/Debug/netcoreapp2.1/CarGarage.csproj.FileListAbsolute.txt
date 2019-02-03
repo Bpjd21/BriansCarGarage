@@ -1,0 +1,11 @@
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\bin\Debug\netcoreapp2.1\CarGarage.deps.json
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\bin\Debug\netcoreapp2.1\CarGarage.runtimeconfig.json
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\bin\Debug\netcoreapp2.1\CarGarage.runtimeconfig.dev.json
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\bin\Debug\netcoreapp2.1\CarGarage.dll
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\bin\Debug\netcoreapp2.1\CarGarage.pdb
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\obj\Debug\netcoreapp2.1\CarGarage.csprojAssemblyReference.cache
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\obj\Debug\netcoreapp2.1\CarGarage.csproj.CoreCompileInputs.cache
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\obj\Debug\netcoreapp2.1\CarGarage.AssemblyInfoInputs.cache
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\obj\Debug\netcoreapp2.1\CarGarage.AssemblyInfo.cs
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\obj\Debug\netcoreapp2.1\CarGarage.dll
+C:\Users\BrianD\cle-2019-spring-car-garage\CarGarage\CarGarage\obj\Debug\netcoreapp2.1\CarGarage.pdb
